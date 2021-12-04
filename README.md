@@ -45,6 +45,7 @@ npx create-next-app your-blog --example "https://github.com/wutali/nextjs-netlif
 ```
 
 After that, set up your project as following the Netlify blog:
+gitpod.io/#github.com/spreadzp/repo
 
 [A Step-by-Step Guide: Deploying on Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
 
